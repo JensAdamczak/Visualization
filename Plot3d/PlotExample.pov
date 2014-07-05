@@ -2,7 +2,7 @@
 #include "Math.inc"
 #include "PlotUtilities.inc"
 
-#declare Filename = "/Users/adamczak/Desktop/Testfile.csv"
+#declare Filename = "Testfile.csv"
 #declare Data = array[100][3];
 Read_File(Filename, Data)
 
