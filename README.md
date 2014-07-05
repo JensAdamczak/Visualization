@@ -2,7 +2,7 @@
 
 This repository contains code for visualizing data.
 
-####Plot3d
+_#####Plot3d_
 #####PlotExample.pov
 Example plot file for the Persistence of Vision Raytracer ([POVray](http://www.povray.org)) that illustrates the use of the macros in PlotUtilities.inc file. 
 
